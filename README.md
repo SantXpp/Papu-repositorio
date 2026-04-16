@@ -11,3 +11,5 @@ Bienvenido a mi glosario de comandos, aqui guardare lo que aprenda para no memor
 👻[Comandos Windows/Terminal](windows.md) - Atajos de teclado, comandos de la terminal.
 
 👻[Comandos GdScript](gdscript.md) - Pedacitos de codigo para godot.
+
+🤝[Mas importante aun! Si buscas colaborar](contributing.md) - Aqui explico como puedes añadir tus propios atajos.
