@@ -1,4 +1,4 @@
-#Comandos de Git
+# Comandos de Git 🦅
 
 - 'git init'	"Despierta" a Git en tu carpeta. Solo se hace una vez al inicio.
 
