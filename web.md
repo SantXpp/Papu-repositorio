@@ -16,19 +16,19 @@
 
 - Texto y contenido 🖋️
 
-* <h1> a <h6>	Títulos (el 1 es el más importante, el 6 el más pequeño).
+* <h1/> a <h6/>	Títulos (el 1 es el más importante, el 6 el más pequeño).
 
-* <p>	Párrafos de texto.
+* <p/>	Párrafos de texto.
 
-* <span>	Para aplicar estilo a una palabra o frase específica dentro de un texto.
+* <span/>	Para aplicar estilo a una palabra o frase específica dentro de un texto.
 
-* <strong>	Poner texto en negrita (importancia semántica).
+* <strong/>	Poner texto en negrita (importancia semántica).
 
-* <em>	Poner texto en cursiva (énfasis).
+* <em/>	Poner texto en cursiva (énfasis).
 
-* <br>	Salto de línea simple (no abuses de él, usa margen en CSS).
+* <br/>	Salto de línea simple (no abuses de él, usa margen en CSS).
 
-* <hr>	Una línea horizontal divisoria.
+* <hr/>	Una línea horizontal divisoria.
 
 - Enlaces y multimedia 🔗
 
