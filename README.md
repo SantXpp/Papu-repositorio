@@ -3,5 +3,6 @@ Bienvenido a mi glosario de comandos, aqui guardare lo que aprenda para no memor
 
 ## 📂 Categorias
 👻[Comandos de Git](git.md) - Procesos de carpetas, guardado y subida a Github.
-👻[Comandos de Linux] - Desde navegacion hasta administracion.
+
+👻[Comandos de Linux](linux.md) - Desde navegacion hasta administracion.
 
