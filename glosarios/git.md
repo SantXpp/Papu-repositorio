@@ -17,3 +17,7 @@
 - 'git pull'	Trae los cambios que alguien más subió a la nube.
 
 - 'git log --oneline'	Muestra tu historial de fotos de forma resumida y elegante.
+
+- 'git restore' . (Esto descarta todos los cambios sueltos y deja los archivos exactamente como estaban en tu último commit).
+
+- 'git revert o git reset --hard' Si ya hiciste commit y te diste cuenta de que rompiste todo (Estos sí te hacen viajar en el tiempo).
