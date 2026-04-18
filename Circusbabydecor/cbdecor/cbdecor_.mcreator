@@ -1,0 +1,197 @@
+{
+  "mod_elements": [
+    {
+      "name": "CBDECORTAB",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cbdecor_tab_bq",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/TABS"
+    },
+    {
+      "name": "BQSuelo1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bq_suelo_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cbdecor_/models/item/bq_suelo_1.json",
+          "src/main/resources/assets/cbdecor_/blockstates/bq_suelo_1.json",
+          "src/main/resources/assets/cbdecor_/models/block/bq_suelo_1.json",
+          "src/main/resources/data/cbdecor_/loot_tables/blocks/bq_suelo_1.json",
+          "src/main/java/net/mcreator/cbdecor/block/BQSuelo1Block.java"
+        ]
+      },
+      "path": "~/BLOQUES NORMALES"
+    },
+    {
+      "name": "BQSuelo2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bq_suelo_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cbdecor_/models/block/bq_suelo_2.json",
+          "src/main/resources/data/cbdecor_/loot_tables/blocks/bq_suelo_2.json",
+          "src/main/resources/assets/cbdecor_/models/item/bq_suelo_2.json",
+          "src/main/resources/assets/cbdecor_/blockstates/bq_suelo_2.json",
+          "src/main/java/net/mcreator/cbdecor/block/BQSuelo2Block.java"
+        ]
+      },
+      "path": "~/BLOQUES NORMALES"
+    },
+    {
+      "name": "BQSuelo3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bq_suelo_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cbdecor/block/BQSuelo3Block.java",
+          "src/main/resources/assets/cbdecor_/blockstates/bq_suelo_3.json",
+          "src/main/resources/data/cbdecor_/loot_tables/blocks/bq_suelo_3.json",
+          "src/main/resources/assets/cbdecor_/models/block/bq_suelo_3.json",
+          "src/main/resources/assets/cbdecor_/models/item/bq_suelo_3.json"
+        ]
+      },
+      "path": "~/BLOQUES NORMALES"
+    },
+    {
+      "name": "BQPared1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bq_pared_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cbdecor_/models/block/bq_pared_1.json",
+          "src/main/java/net/mcreator/cbdecor/block/BQPared1Block.java",
+          "src/main/resources/data/cbdecor_/loot_tables/blocks/bq_pared_1.json",
+          "src/main/resources/assets/cbdecor_/models/item/bq_pared_1.json",
+          "src/main/resources/assets/cbdecor_/blockstates/bq_pared_1.json"
+        ]
+      },
+      "path": "~/BLOQUES NORMALES"
+    },
+    {
+      "name": "BQPared2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bq_pared_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cbdecor_/blockstates/bq_pared_2.json",
+          "src/main/resources/assets/cbdecor_/models/block/bq_pared_2.json",
+          "src/main/resources/data/cbdecor_/loot_tables/blocks/bq_pared_2.json",
+          "src/main/java/net/mcreator/cbdecor/block/BQPared2Block.java",
+          "src/main/resources/assets/cbdecor_/models/item/bq_pared_2.json"
+        ]
+      },
+      "path": "~/BLOQUES NORMALES"
+    },
+    {
+      "name": "BQPared3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bq_pared_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cbdecor_/models/item/bq_pared_3.json",
+          "src/main/resources/assets/cbdecor_/blockstates/bq_pared_3.json",
+          "src/main/resources/assets/cbdecor_/models/block/bq_pared_3.json",
+          "src/main/java/net/mcreator/cbdecor/block/BQPared3Block.java",
+          "src/main/resources/data/cbdecor_/loot_tables/blocks/bq_pared_3.json"
+        ]
+      },
+      "path": "~/BLOQUES NORMALES"
+    },
+    {
+      "name": "Gui1",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gui_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cbdecor/client/gui/Gui1Screen.java",
+          "src/main/java/net/mcreator/cbdecor/world/inventory/Gui1Menu.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:BQSuelo3",
+      "~CUSTOM:BQSuelo2",
+      "~CUSTOM:BQSuelo1"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.cbdecor_.bq_suelo_3": "Bloque de Piso Cuadriculado de Cobre",
+      "block.cbdecor_.bq_suelo_1": "Bloque de Piso Cuadriculado Rojo",
+      "gui.cbdecor_.gui_1.label_x1": "X",
+      "block.cbdecor_.bq_suelo_2": "Bloque de Piso Cuadriculado ",
+      "gui.cbdecor_.gui_1.label_blowjob": "BlowJob",
+      "gui.cbdecor_.gui_1.button_agregar_npc": "Colocar NPC",
+      "block.cbdecor_.bq_pared_3": "BQ Pared 2",
+      "block.cbdecor_.bq_pared_1": "BQ Pared 1",
+      "block.cbdecor_.bq_pared_2": "BQ Pared 2",
+      "gui.cbdecor_.gui_1.label_x2": "X",
+      "gui.cbdecor_.gui_1.button_iniciar_animacion": "Iniciar Animacion",
+      "item_group.cbdecor_.cbdecor_tab_bq": "CBDECOR BQ",
+      "gui.cbdecor_.gui_1.button_detener_animacion": "Detener Animacion",
+      "gui.cbdecor_.gui_1.label_traje": "Trajes",
+      "gui.cbdecor_.gui_1.label_poses": "POSES",
+      "gui.cbdecor_.gui_1.button_eliminar_npc": "Eliminar NPC",
+      "gui.cbdecor_.gui_1.label_x": "X"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "TABS",
+        "children": []
+      },
+      {
+        "name": "BLOQUES NORMALES",
+        "children": []
+      },
+      {
+        "name": "Objetos",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "cbdecor_",
+    "modName": "CBDECOR_1.2",
+    "version": "1.0.0",
+    "author": "Matu, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "geckolib"
+    ],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.cbdecor"
+  },
+  "mcreatorVersion": 202400342716
+}

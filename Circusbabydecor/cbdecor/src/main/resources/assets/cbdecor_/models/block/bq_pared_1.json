@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cbdecor_:block/pared1",
+    "particle": "cbdecor_:block/pared1"
+  },
+  "render_type": "solid"
+}

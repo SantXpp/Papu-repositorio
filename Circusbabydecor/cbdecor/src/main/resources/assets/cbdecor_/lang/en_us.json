@@ -1,0 +1,19 @@
+{
+  "block.cbdecor_.bq_suelo_3": "Bloque de Piso Cuadriculado de Cobre",
+  "block.cbdecor_.bq_suelo_1": "Bloque de Piso Cuadriculado Rojo",
+  "gui.cbdecor_.gui_1.label_x1": "X",
+  "block.cbdecor_.bq_suelo_2": "Bloque de Piso Cuadriculado ",
+  "gui.cbdecor_.gui_1.label_blowjob": "BlowJob",
+  "gui.cbdecor_.gui_1.button_agregar_npc": "Colocar NPC",
+  "block.cbdecor_.bq_pared_3": "BQ Pared 2",
+  "block.cbdecor_.bq_pared_1": "BQ Pared 1",
+  "block.cbdecor_.bq_pared_2": "BQ Pared 2",
+  "gui.cbdecor_.gui_1.label_x2": "X",
+  "gui.cbdecor_.gui_1.button_iniciar_animacion": "Iniciar Animacion",
+  "item_group.cbdecor_.cbdecor_tab_bq": "CBDECOR BQ",
+  "gui.cbdecor_.gui_1.button_detener_animacion": "Detener Animacion",
+  "gui.cbdecor_.gui_1.label_traje": "Trajes",
+  "gui.cbdecor_.gui_1.label_poses": "POSES",
+  "gui.cbdecor_.gui_1.button_eliminar_npc": "Eliminar NPC",
+  "gui.cbdecor_.gui_1.label_x": "X"
+}

@@ -1,0 +1,123 @@
+{
+  "_fv": 69,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 0,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_iniciar_animacion",
+          "text": "Iniciar Animacion",
+          "isUndecorated": false,
+          "width": 114,
+          "height": 20,
+          "x": 303,
+          "y": 107
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_detener_animacion",
+          "text": "Detener Animacion",
+          "isUndecorated": false,
+          "width": 114,
+          "height": 20,
+          "x": 303,
+          "y": 134
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_agregar_npc",
+          "text": "Colocar NPC",
+          "isUndecorated": false,
+          "width": 82,
+          "height": 20,
+          "x": 321,
+          "y": 161
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_eliminar_npc",
+          "text": "Eliminar NPC",
+          "isUndecorated": false,
+          "width": 87,
+          "height": 20,
+          "x": 321,
+          "y": 188
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_oro",
+          "image": "oro.png",
+          "hoveredImage": "",
+          "x": 332,
+          "y": 73
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_cb_remera",
+          "image": "cb_remera.png",
+          "hoveredImage": "",
+          "x": 368,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "button_base.png",
+          "use1Xscale": false,
+          "x": 330,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "button_base.png",
+          "use1Xscale": false,
+          "x": 366,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_traje",
+          "text": {
+            "fixedValue": "Trajes"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 343,
+          "y": 53
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}
