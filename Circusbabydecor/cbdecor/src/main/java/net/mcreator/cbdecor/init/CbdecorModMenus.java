@@ -11,10 +11,12 @@ import net.minecraftforge.common.extensions.IForgeMenuType;
 
 import net.minecraft.world.inventory.MenuType;
 
+import net.mcreator.cbdecor.world.inventory.PruebascontrolpersonajeMenu;
 import net.mcreator.cbdecor.world.inventory.Gui1Menu;
 import net.mcreator.cbdecor.CbdecorMod;
 
 public class CbdecorModMenus {
 	public static final DeferredRegister<MenuType<?>> REGISTRY = DeferredRegister.create(ForgeRegistries.MENU_TYPES, CbdecorMod.MODID);
 	public static final RegistryObject<MenuType<Gui1Menu>> GUI_1 = REGISTRY.register("gui_1", () -> IForgeMenuType.create(Gui1Menu::new));
+	public static final RegistryObject<MenuType<PruebascontrolpersonajeMenu>> PRUEBASCONTROLPERSONAJE = REGISTRY.register("pruebascontrolpersonaje", () -> IForgeMenuType.create(PruebascontrolpersonajeMenu::new));
 }

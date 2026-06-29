@@ -11,6 +11,7 @@ import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.client.gui.screens.MenuScreens;
 
+import net.mcreator.cbdecor.client.gui.PruebascontrolpersonajeScreen;
 import net.mcreator.cbdecor.client.gui.Gui1Screen;
 
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
@@ -19,6 +20,7 @@ public class CbdecorModScreens {
 	public static void clientLoad(FMLClientSetupEvent event) {
 		event.enqueueWork(() -> {
 			MenuScreens.register(CbdecorModMenus.GUI_1.get(), Gui1Screen::new);
+			MenuScreens.register(CbdecorModMenus.PRUEBASCONTROLPERSONAJE.get(), PruebascontrolpersonajeScreen::new);
 		});
 	}
 }

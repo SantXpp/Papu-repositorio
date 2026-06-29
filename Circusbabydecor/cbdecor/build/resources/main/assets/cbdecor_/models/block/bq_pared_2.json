@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cbdecor_:block/pared1",
+    "up": "cbdecor_:block/pared1",
+    "north": "cbdecor_:block/pared2",
+    "east": "cbdecor_:block/pared2",
+    "south": "cbdecor_:block/pared2",
+    "west": "cbdecor_:block/pared2",
+    "particle": "cbdecor_:block/pared1"
+  },
+  "render_type": "solid"
+}

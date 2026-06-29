@@ -12,6 +12,7 @@ import net.minecraft.world.level.block.Block;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.BlockItem;
 
+import net.mcreator.cbdecor.item.PruebapaloItem;
 import net.mcreator.cbdecor.CbdecorMod;
 
 public class CbdecorModItems {
@@ -22,6 +23,7 @@ public class CbdecorModItems {
 	public static final RegistryObject<Item> BQ_PARED_1 = block(CbdecorModBlocks.BQ_PARED_1);
 	public static final RegistryObject<Item> BQ_PARED_2 = block(CbdecorModBlocks.BQ_PARED_2);
 	public static final RegistryObject<Item> BQ_PARED_3 = block(CbdecorModBlocks.BQ_PARED_3);
+	public static final RegistryObject<Item> PRUEBAPALO = REGISTRY.register("pruebapalo", () -> new PruebapaloItem());
 
 	// Start of user code block custom items
 	// End of user code block custom items
