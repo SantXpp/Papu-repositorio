@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "cbdecor_:block/piso2",
-    "particle": "cbdecor_:block/piso2"
-  },
-  "render_type": "solid"
-}
